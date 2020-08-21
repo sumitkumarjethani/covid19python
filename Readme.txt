@@ -10,3 +10,6 @@ For execute the covid19 graphics API do the following steps:
 	python covid19basic.py
 4. If you want to reset the covid DB type the next command:
 	python covid19reset.py 
+
+----------------------------------------------------------
+USER INTERFACE NOT FINISHED YET IN THE SECOND COMMIT.
