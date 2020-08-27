@@ -12,4 +12,4 @@ For execute the covid19 graphics API do the following steps:
 	python covid19reset.py 
 
 ----------------------------------------------------------
-USER INTERFACE NOT FINISHED YET IN THE SECOND COMMIT.
+Finally I have decided that there will be no user interface, but there will be a web page that will show us the graphics.
